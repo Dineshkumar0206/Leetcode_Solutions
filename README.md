@@ -10,4 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0401-binary-watch](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0461-hamming-distance) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
