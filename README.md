@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [1406-stone-game-iii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0047-permutations-ii) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
