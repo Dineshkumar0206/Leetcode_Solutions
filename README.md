@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0401-binary-watch](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0461-hamming-distance) |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0134-gas-station) |
 | [1406-stone-game-iii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 ## Greedy
