@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0134-gas-station) |
+| [0238-product-of-array-except-self](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [1406-stone-game-iii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 ## Greedy
 |  |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
