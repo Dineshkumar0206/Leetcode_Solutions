@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0401-binary-watch](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0461-hamming-distance) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Minimax
 |  |
 | ------- |
@@ -76,4 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
+## String
+|  |
+| ------- |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 <!---LeetCode Topics End-->
