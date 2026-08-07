@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [1406-stone-game-iii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
@@ -100,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
