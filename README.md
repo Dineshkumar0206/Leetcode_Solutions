@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0258-add-digits) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 ## Prefix Sum
 |  |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
