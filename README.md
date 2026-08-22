@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0916-word-subsets](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0916-word-subsets) |
+| [0989-add-to-array-form-of-integer](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1200-minimum-absolute-difference](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0258-add-digits) |
+| [0989-add-to-array-form-of-integer](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1406-stone-game-iii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
