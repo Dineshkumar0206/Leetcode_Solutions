@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3838-weighted-word-mapping](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3838-weighted-word-mapping) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0989-add-to-array-form-of-integer](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1406-stone-game-iii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
@@ -81,18 +83,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1406-stone-game-iii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1872-stone-game-viii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1872-stone-game-viii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 ## Hash Table
 |  |
 | ------- |
