@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0916-word-subsets](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0916-word-subsets) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0916-word-subsets](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0916-word-subsets) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Breadth-First Search
 |  |
