@@ -2,6 +2,7 @@ class Solution
 {
     public int missingMultiple(int[] nums, int k) 
     {
+        Arrays.sort(nums);
         int n = k ;
         while(true)
         {
