@@ -1,35 +1,30 @@
 class Solution {
     public int calPoints(String[] operations) {
-        Stack<Integer> stack = new Stack<>();
-        for( String s : operations)
-        {
-           if(s.matches("-?\\d+")){
-                stack.push(Integer.parseInt(s));
+        int[]scores=new int[operations.length];
+        int top=0;
+        for(int i=0;i<operations.length;i++){
+            if(operations[i].equals("C")){
+                top--;
             }
-            else if(s.equals("C"))
-            {
-               stack.pop();
+            else if(operations[i].equals("D")){
+                scores[top]=scores[top-1]*2;
+                top++;
             }
-            else if(s.equals("D"))
-            {
-                stack.push(stack.peek() * 2);
+            else if(operations[i].equals("+")) {
+                scores[top]=scores[top-1]+scores[top-2];
+                top++;
             }
-           else if(s.equals("+"))
-            {
-                int top1 = stack.pop();
-                int top2 = stack.peek(); 
+            else {
+                scores[top]=Integer.parseInt(operations[i]);
+                top++;
+            }
 
-                int newScore = top1 + top2;
-    
-                stack.push(top1); 
-                stack.push(newScore); 
-            }
         }
-        int sum = 0 ;
-        for(int i : stack)
-        {
-            sum += i;
+        int sum=0;
+        for(int i=0;i<top;i++){
+            sum+=scores[i];
+
         }
-        return sum ;
+        return sum;
     }
 }
