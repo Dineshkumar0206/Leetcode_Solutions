@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0667-beautiful-arrangement-ii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0667-beautiful-arrangement-ii) |
+| [0682-baseball-game](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0916-word-subsets](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0916-word-subsets) |
 | [0989-add-to-array-form-of-integer](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1200-minimum-absolute-difference](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
