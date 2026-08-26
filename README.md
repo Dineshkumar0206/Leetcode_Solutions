@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0047-permutations-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0916-word-subsets](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0916-word-subsets) |
