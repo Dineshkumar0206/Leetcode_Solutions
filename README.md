@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0916-word-subsets](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0916-word-subsets) |
 | [0989-add-to-array-form-of-integer](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [1122-relative-sort-array](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [1122-relative-sort-array](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1200-minimum-absolute-difference) |
 ## Recursion
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0916-word-subsets](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0916-word-subsets) |
+| [1122-relative-sort-array](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -228,4 +231,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0143-reorder-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
