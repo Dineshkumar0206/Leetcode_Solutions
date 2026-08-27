@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0682-baseball-game) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0143-reorder-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -221,4 +223,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0143-reorder-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
