@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0506-relative-ranks](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0667-beautiful-arrangement-ii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0682-baseball-game](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0916-word-subsets](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0916-word-subsets) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0506-relative-ranks](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [1122-relative-sort-array](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1200-minimum-absolute-difference) |
 ## Recursion
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
