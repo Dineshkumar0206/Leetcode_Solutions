@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3838-weighted-word-mapping](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3838-weighted-word-mapping) |
+| [3842-toggle-light-bulbs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3842-toggle-light-bulbs) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [1122-relative-sort-array](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1200-minimum-absolute-difference) |
+| [3842-toggle-light-bulbs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3842-toggle-light-bulbs) |
 ## Recursion
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2848-points-that-intersect-with-cars](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3842-toggle-light-bulbs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3842-toggle-light-bulbs) |
 ## String
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3838-weighted-word-mapping](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3838-weighted-word-mapping) |
+| [3842-toggle-light-bulbs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3842-toggle-light-bulbs) |
 ## Number Theory
 |  |
 | ------- |
