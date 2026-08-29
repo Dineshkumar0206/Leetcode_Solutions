@@ -7,7 +7,7 @@ class Solution {
            freq[i-0]++;
         }
         for(int i = 0 ; i < freq.length ; i++){
-            if(freq[i]%2 != 0){
+            if(freq[i]%2 == 1){
                 list.add(i);
             }
         }
