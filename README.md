@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3838-weighted-word-mapping) |
 ## Memoization
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3842-toggle-light-bulbs) |
 ## Number Theory
