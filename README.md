@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2848-points-that-intersect-with-cars](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [1122-relative-sort-array](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1200-minimum-absolute-difference) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3842-toggle-light-bulbs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3842-toggle-light-bulbs) |
 ## Recursion
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2848-points-that-intersect-with-cars](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3842-toggle-light-bulbs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3842-toggle-light-bulbs) |
