@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0916-word-subsets](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0916-word-subsets) |
 | [1122-relative-sort-array](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
+| [1189-maximum-number-of-balloons](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0916-word-subsets](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0916-word-subsets) |
+| [1189-maximum-number-of-balloons](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
