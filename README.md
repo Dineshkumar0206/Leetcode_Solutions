@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1331-rank-transform-of-an-array](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [1122-relative-sort-array](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3842-toggle-light-bulbs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/3842-toggle-light-bulbs) |
 ## Recursion
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-word-subsets](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/0916-word-subsets) |
 | [1122-relative-sort-array](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1331-rank-transform-of-an-array](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dineshkumar0206/Leetcode_Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
